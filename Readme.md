@@ -1,1 +1,1 @@
-* **Linear Learning with Sparse Data**, Ofer Dekel, Technical Report, 2016 [PDF](2016Dekel.pdf)
+* **Linear Learning with Sparse Data**, Ofer Dekel, Technical Report, 2016 [PDF](pdf/2016Dekel.pdf)
