@@ -1,5 +1,5 @@
 ## Working Papers and Technical Reports
-* Ofer Dekel. **Linear Learning with Sparse Data.** Technical Report, 2016 [PDF](pdf/2016Dekel.pdf)
+* Ofer Dekel. **Linear Learning with Sparse Data.** Technical Report, 2016 [PDF](pdf/2016Dekel.pdf) :red_circle:
 
 ## Journal Papers
 * Ofer Dekel, Claudio Gentile, and Karthik Sridharan. **Selective Sampling and Active Learning from Single and Multiple Teachers.** Journal of Machine Learning Research, 13:2655-2697, 2012. [PDF](pdf/2012DekelGeSr.pdf)
