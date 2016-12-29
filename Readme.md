@@ -1,3 +1,5 @@
-# Ofer Dekel's Homepage
+# Ofer Dekel's Publications
 
-## Publications
+* Pub 1
+
+* Pub 2
