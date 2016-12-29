@@ -1,5 +1,1 @@
-# Ofer Dekel's Publications
-
-* Pub 1
-
-* Pub 2
+* **Linear Learning with Sparse Data**, Ofer Dekel, Technical Report, 2016 [PDF](2016Dekel.pdf)
