@@ -48,7 +48,7 @@
 * Ofer Dekel, Shai Shalev-Shwartz, and Yoram Singer. [*Smooth Epsilon-Insensitive Regression by Loss Symmetrization.*](pdf/2003DekelShSi.pdf) Proceedings of the Sixteenth Annual Conference on Computational Learning Theory, pages 433-447. Springer LNAI 2777, 2003.
 * Ofer Dekel and Yoram Singer. [*Multiclass Categorization by Probabilistic Embeddings.*](pdf/2003DekelSi.pdf) Advances in Neural Information Processing Systems 15, pages 945-952. MIT Press, 2003.
 
-#
+<br><br>
 	
 | Tag Legend
 |-
