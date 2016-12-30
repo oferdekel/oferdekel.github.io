@@ -39,7 +39,7 @@
 * Ofer Dekel and Yoram Singer. **Support Vector Machines on a Budget.** Advances in Neural Information Processing Systems 19, pages 345-352. MIT Press, 2007. [**PDF**](pdf/2007DekelSi.pdf)
 * Ofer Dekel, Philip M. Long, and Yoram Singer. **Online Multitask Learning.** Proceedings of the Nineteenth Annual Conference on Learning Theory, pages 453-467. Springer LNAI 4005, 2006. [**PDF**](pdf/2006DekelLoSi.pdf)
 * Ofer Dekel and Yoram Singer. **Data-Driven Online to Batch Conversions.** Advances in Neural Information Processing Systems 18, pages 267-274. MIT Press, 2006. [**PDF**](pdf/2006DekelSi.pdf)
-* Ofer Dekel, Shai Shalev-Shwartz, and Yoram Singer. **The Forgetron: A Kernel-Based Perceptron on a Fixed Budget.** Advances in Neural Information Processing Systems 18, pages 259-266. MIT Press, 2006. ***Best Paper*** [**PDF**](pdf/2006DekelShSi.pdf)
+* Ofer Dekel, Shai Shalev-Shwartz, and Yoram Singer. **The Forgetron: A Kernel-Based Perceptron on a Fixed Budget.** Advances in Neural Information Processing Systems 18, pages 259-266. MIT Press, 2006. ***Best Paper***. [**PDF**](pdf/2006DekelShSi.pdf)
 * Ofer Dekel, Shai Shalev-Shwartz, and Yoram Singer. **The Power of Selective Memory: Self-Bounded Learning of Prediction Suffix Trees.** Advances in Neural Information Processing Systems 17, pages 345-352. MIT Press, 2005. [**PDF**](pdf/2005aDekelShSi.pdf)
 * Ofer Dekel, Joseph Keshet, and Yoram Singer. **An Online Algorithm for Hierarchical Phoneme Classification.** Machine Learning for Multimodal Interaction: First International Workshop, pages 146-158. Springer LNAI 3361, 2005. [**PDF**](pdf/2005DekelKeSi.pdf)
 * Ofer Dekel, Joseph Keshet, and Yoram Singer. **Large Margin Hierarchical Classification.** Proceedings of the Twenty-First International Conference on Machine Learning, 2004. [**PDF**](pdf/2004DekelKeSi.pdf)
@@ -49,7 +49,11 @@
 * Ofer Dekel and Yoram Singer. **Multiclass Categorization by Probabilistic Embeddings.** Advances in Neural Information Processing Systems 15, pages 945-952. MIT Press, 2003. [**PDF**](pdf/2003DekelSi.pdf)
 	
 #### *Tag Legend*
-* `AA` Adaptive adversaries in online learning
+
++-------------------------------------------------------+-------|
+| * `AA` Adaptive adversaries in online learning        |      |
++-------------------------------------------------------+-------+
+
 * `AE` Algorithm engineering and efficient implementations
 * `AL` Active learning
 * `Ba` Bandits
