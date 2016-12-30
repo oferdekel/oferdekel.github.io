@@ -1,3 +1,20 @@
+| Tag Legend
+|-
+| * `AA` Adaptive adversaries in online learning 
+| * `AE` Algorithm engineering and efficient implementations
+| * `AL` Active learning
+| * `Ba` Bandits
+| * `Bo` Boosting
+| * `Bu` Learning on a budget
+| * `Ex` Extreme classification (classification with many labels)
+| * `LB` Lower bounds 
+| * `LT` Statistical learning theory
+| * `MD` Mechanism design and incentives in machine learning
+| * `MP` Learning in Markov decision processes
+| * `MT` Learning from multiple teachers and crowdsourcing
+| * `OL` Online learning and regret
+| * `SV` Support vector machines and kernel methods
+
 ## Working Papers and Technical Reports
 * Ofer Dekel. **Linear Learning with Sparse Data.** Technical Report, 2016 [**PDF**](pdf/2016Dekel.pdf) `AE`
 
@@ -48,26 +65,3 @@
 * Ofer Dekel, Shai Shalev-Shwartz, and Yoram Singer. **Smooth Epsilon-Insensitive Regression by Loss Symmetrization.** Proceedings of the Sixteenth Annual Conference on Computational Learning Theory, pages 433-447. Springer LNAI 2777, 2003. [**PDF**](pdf/2003DekelShSi.pdf)
 * Ofer Dekel and Yoram Singer. **Multiclass Categorization by Probabilistic Embeddings.** Advances in Neural Information Processing Systems 15, pages 945-952. MIT Press, 2003. [**PDF**](pdf/2003DekelSi.pdf)
 	
-#### *Tag Legend*
-
-+-------------------------------------------------------+-------|
-| * `AA` Adaptive adversaries in online learning        |      |
-+-------------------------------------------------------+-------+
-
-* `AE` Algorithm engineering and efficient implementations
-* `AL` Active learning
-* `Ba` Bandits
-* `Bo` Boosting
-* `Bu` Learning on a budget
-* `Ex` Extreme classification (classification with many labels)
-* `LB` Lower bounds 
-* `LT` Statistical learning theory
-* `MD` Mechanism design and incentives in machine learning
-* `MP` Learning in Markov decision processes
-* `MT` Learning from multiple teachers and crowdsourcing
-* `OL` Online learning and regret
-* `SV` Support vector machines and kernel methods
-
-
-
-.
