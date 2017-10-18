@@ -1,7 +1,9 @@
 ## Working Papers and Technical Reports
+
 * Ofer Dekel. [*Linear Learning with Sparse Data.*](pdf/2016Dekel.pdf) Technical Report, 2016. `AE`
 
 ## Journal Papers
+
 * Ofer Dekel, Claudio Gentile, and Karthik Sridharan. [*Selective Sampling and Active Learning from Single and Multiple Teachers.*](pdf/2012DekelGeSr.pdf) Journal of Machine Learning Research, 13:2655-2697, 2012. `AL` `MT`
 * Ofer Dekel, Ran Gilad-Bachrach, Ohad Shamir, and Lin Xiao. [*Optimal Distributed Online Prediction using Mini-Batches.*](pdf/2012DekelGiShXi.pdf) Journal of Machine Learning Research, 13:165-202, 2012. `DL` `OL`
 * Ofer Dekel, Felix Fischer, and Ariel D. Procaccia. [*Incentive Compatible Regression Learning.*](pdf/2010DekelFiPr.pdf) Journal of Computer and System Sciences, 76:759-777, 2010. `MD` `LT`
@@ -13,6 +15,9 @@
 * Ofer Dekel, Shai Shalev-Shwartz, and Yoram Singer. [*Smooth Epsilon-Insensitive Regression by Loss Symmetrization.*](pdf/2005DekelShSi.pdf) Journal of Machine Learning Research, 6:711-741, 2005.
 
 ## Conference Papers
+
+* Ofer Dekel, Arthur Flajolet, Nika Haghtalab, and Patrick Jaillet. [*Online Learning with a Hint.*](pdf/2017DekelFlHaJa.pdf) To appear in Advances in Neural Information Processing Systems 30, 2017. `Ol`
+* Tolga Bolukbasi, Joseph Wang, Ofer Dekel, and Venkatesh Saligrama. [*Adaptive Neural Networks for Efficient Inference.*](pdf/2017BolukbasiWaDeSa.pdf) Proceedings of the Thirty Forth Internation Conference on Machine Learning, 2017. `Bu`
 * Ofer Dekel, Ronen Eldan, and Tomer Koren. [*Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff.*](pdf/2015DekelElKo.pdf) Advances in Neural Information Processing Systems 28, 2015. `Ba`
 * Sebastien Bubeck, Ofer Dekel, Tomer Koren, and Yuval Peres. [*Bandit Convex Optimization: sqrt(T) Regret in One Dimension.*](pdf/2015BubeckDeKoPe.pdf) Proceedings of the 28th Annual Conference on Learning Theory, 2015. `Ba`
 * Noga Alon, Nicolo Cesa-Bianchi, Ofer Dekel, and Tomer Koren. [*Online Learning with Feedback Graphs: Beyond Bandits.*](pdf/2015AlonCeDeKo.pdf) Proceedings of the 28th Annual Conference on Learning Theory, 2015. `Ba`
