@@ -1,5 +1,3 @@
-# Publications
-
 * Ofer Dekel, Arthur Flajolet, Nika Haghtalab, and Patrick Jaillet. [*Online Learning with a Hint.*](pdf/2017DekelFlHaJa.pdf) To appear in Advances in Neural Information Processing Systems 30, 2017. `OL`
 * Tolga Bolukbasi, Joseph Wang, Ofer Dekel, and Venkatesh Saligrama. [*Adaptive Neural Networks for Efficient Inference.*](pdf/2017BolukbasiWaDeSa.pdf) Proceedings of the Thirty Forth International Conference on Machine Learning, 2017. `Bu`
 * Ofer Dekel. [*Linear Learning with Sparse Data.*](pdf/2016Dekel.pdf) Technical Report, 2016. `AE`
