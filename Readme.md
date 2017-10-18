@@ -17,7 +17,7 @@
 ## Conference Papers
 
 * Ofer Dekel, Arthur Flajolet, Nika Haghtalab, and Patrick Jaillet. [*Online Learning with a Hint.*](pdf/2017DekelFlHaJa.pdf) To appear in Advances in Neural Information Processing Systems 30, 2017. `OL`
-* Tolga Bolukbasi, Joseph Wang, Ofer Dekel, and Venkatesh Saligrama. [*Adaptive Neural Networks for Efficient Inference.*](pdf/2017BolukbasiWaDeSa.pdf) Proceedings of the Thirty Forth Internation Conference on Machine Learning, 2017. `Bu`
+* Tolga Bolukbasi, Joseph Wang, Ofer Dekel, and Venkatesh Saligrama. [*Adaptive Neural Networks for Efficient Inference.*](pdf/2017BolukbasiWaDeSa.pdf) Proceedings of the Thirty Forth International Conference on Machine Learning, 2017. `Bu`
 * Ofer Dekel, Ronen Eldan, and Tomer Koren. [*Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff.*](pdf/2015DekelElKo.pdf) Advances in Neural Information Processing Systems 28, 2015. `Ba`
 * Sebastien Bubeck, Ofer Dekel, Tomer Koren, and Yuval Peres. [*Bandit Convex Optimization: sqrt(T) Regret in One Dimension.*](pdf/2015BubeckDeKoPe.pdf) Proceedings of the 28th Annual Conference on Learning Theory, 2015. `Ba`
 * Noga Alon, Nicolo Cesa-Bianchi, Ofer Dekel, and Tomer Koren. [*Online Learning with Feedback Graphs: Beyond Bandits.*](pdf/2015AlonCeDeKo.pdf) Proceedings of the 28th Annual Conference on Learning Theory, 2015. `Ba`
