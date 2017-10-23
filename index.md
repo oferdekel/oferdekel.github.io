@@ -36,7 +36,7 @@ title: Ofer Dekel's Publications
 
 [*Online Bandit Learning Against an Adaptive Adversary: from Regret to Policy Regret.*](pdf/2012AroraDeTe.pdf) Raman Arora, Ofer Dekel, and Ambuj Tewari. Proceedings of the Twenty-Ninth International Conference on Machine Learning, 2012. `AA` `Ba`
 
-[*There's a Hole in My Dataspace: Piecewise Predictors for Heterogeneous Learning Problems.*](pdf/2012DekelSh.pdf) Ofer Dekel and Ohad Shamir. Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics, JMLR: W&CP 22, 2012. `EM`
+[*There's a Hole in My Dataspace: Piecewise Predictors for Heterogeneous Learning Problems.*](pdf/2012DekelSh.pdf) Ofer Dekel and Ohad Shamir. Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics, JMLR Workshop and Conference Proceedings 22, 2012. `EM`
 
 [*Optimal Distributed Online Prediction.*](pdf/2011DekelGiShXi.pdf) Ofer Dekel, Ran Gilad-Bachrach, Ohad Shamir, and Lin Xiao. Proceedings of the Twenty-Eighth International Conference on Machine Learning, 2011. `DL` `OL`
 
