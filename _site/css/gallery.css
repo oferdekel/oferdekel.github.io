@@ -1,0 +1,8 @@
+.arch-table {
+  border-style: none; }
+  .arch-table > tr {
+    padding: 3px; }
+  .arch-table > th,
+  .arch-table > td {
+    border-style: none;
+    padding: 3px; }
