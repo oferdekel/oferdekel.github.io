@@ -6,7 +6,9 @@ title: Ofer Dekel's Publications
 # Ofer Dekel's Publications
 <br>
 
-[*Online Learning with a Hint.*](pdf/2017DekelFlHaJa.pdf) Ofer Dekel, Arthur Flajolet, Nika Haghtalab, and Patrick Jaillet. To appear in Advances in Neural Information Processing Systems 30, 2017. `OL`
+*Sparse Multi-Prototype Classification.* Vikas Garg, Lin Xiao, and Ofer Dekel. To appear in Proceedings of the Conference on Uncertainty in Artificial Intelligence, 2018. `Bu`
+
+[*Online Learning with a Hint.*](pdf/2017DekelFlHaJa.pdf) Ofer Dekel, Arthur Flajolet, Nika Haghtalab, and Patrick Jaillet. Advances in Neural Information Processing Systems 30, 2017. `OL`
 
 [*Adaptive Neural Networks for Efficient Inference.*](pdf/2017BolukbasiWaDeSa.pdf) Tolga Bolukbasi, Joseph Wang, Ofer Dekel, and Venkatesh Saligrama. Proceedings of the Thirty Forth International Conference on Machine Learning, 2017. `Bu`
 
