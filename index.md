@@ -6,7 +6,9 @@ title: Ofer Dekel's Publications
 # Ofer Dekel's Publications
 <br>
 
-*Sparse Multi-Prototype Classification.* Vikas Garg, Lin Xiao, and Ofer Dekel. To appear in Proceedings of the Conference on Uncertainty in Artificial Intelligence, 2018. `Bu`
+[*Learning SMaLL Predictors.*](pdf/2018GargDeXi.pdf) Vikas Garg, Ofer Dekel, Lin Xiao. Advances in Neural Information Processing Systems 31, 2018. `Bu`
+
+[*Sparse Multi-Prototype Classification.*](pdf/2018GargXiDe.pdf) Vikas Garg, Lin Xiao, and Ofer Dekel. Proceedings of the Conference on Uncertainty in Artificial Intelligence, 2018. `Bu`
 
 [*Online Learning with a Hint.*](pdf/2017DekelFlHaJa.pdf) Ofer Dekel, Arthur Flajolet, Nika Haghtalab, and Patrick Jaillet. Advances in Neural Information Processing Systems 30, 2017. `OL`
 
