@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Ofer Dekel's Blog
+layout: default
+title: Tiled Matmul with Constraints
 ---
 
 # This is a test of the Blog
